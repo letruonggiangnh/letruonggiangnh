@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Le Truong Giang</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/f0/22/6f/f0226f99c0695bc9e52512bdb2a61fcc.gif">
+<img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/45/2a/f3/452af39e8f2977f5b5b4e3d10c5475cb.gif">
 <p align="left">
 	How to reach me **letruonggiangnh@gmail.com**
 
