@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Giang</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 👯 I’m looking to collaborate on **hobby project with both web and mobile roles**
+- 👯 I’m looking to collaborate on **your hobby project with both web and mobile developer role**
 
 - 📫 How to reach me **letruonggiangnh@gmail.com**
 
