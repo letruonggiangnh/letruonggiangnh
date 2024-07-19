@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Le Truong Giang</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/aa/94/1caa94fe859df3ee7b2d02a6c1be20c6.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/28/e6/e1/28e6e16b4eee580edadfc42452bc9d74.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letruonggiangnh&label=Profile%20views&color=0e75b6&style=flat" alt="letruonggiangnh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letruonggiangnh" alt="letruonggiangnh" /></a> </p>
